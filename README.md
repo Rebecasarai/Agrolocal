@@ -6,3 +6,6 @@ Agrolocal es una plataforma que permite empoderar a los agricultores y consumir 
 Es una oportunidad para pequeños y medianos productores, haciendo que resulte en productor con precio más justo.  #h4g
 
 
+## Demo
+Se puede ver el prototipo básico en aquí.
+   [aquí]: https://agrolocal-manuelfloresv865539.codeanyapp.com/
