@@ -1,0 +1,47 @@
+<div class="container" >
+
+<p id="notice"><%= notice %></p>
+
+<p>
+  <%= image_tag(@product.icon.path, width: "128") %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @product.name %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @product.description %>
+</p>
+
+
+<p>
+  <strong>Ecological:</strong>
+  <%= @product.ecological %>
+</p>
+
+<p>
+  <strong>Price:</strong>
+  <%= number_to_currency(@product.price, unit: "€", format: "%n %u") %>
+</p>
+
+<p>
+  <strong>Farmer:</strong>
+  <%= @product.farmer %>
+</p>
+
+<p>
+  <strong>Phone:</strong>
+  <%= @product.phone %>
+</p>
+
+<p>
+  <strong>City:</strong>
+  <%= @product.city %>
+</p>
+
+<%= link_to 'Edit', edit_product_path(@product) %> |
+<%= link_to 'Back', products_path %>
+</div>

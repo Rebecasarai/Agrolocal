@@ -1,0 +1,14 @@
+
+  <% @products.each do |product| %>
+      <div class="col-sm-6 productos-grid">
+        
+        <%= image_tag(product.icon.path, width: "128") %>
+        <p><%= product.name %> de <%= product.city %></p>
+        <p><%= number_to_currency(product.price, unit: "€", format: "%n %u") %></p>
+        
+          <%= link_to 'Ver', product %>
+        
+      </div>
+    
+
+    <% end %>

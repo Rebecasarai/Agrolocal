@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  icon_id: 
+  ecological: false
+  farmer: MyString
+  phone: MyString
+  city: MyString
+
+two:
+  name: MyString
+  description: MyString
+  icon_id: 
+  ecological: false
+  farmer: MyString
+  phone: MyString
+  city: MyString
