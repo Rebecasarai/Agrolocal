@@ -7,5 +7,4 @@ Es una oportunidad para pequeños y medianos productores, haciendo que resulte e
 
 
 ## Demo
-Se puede ver el prototipo básico en aquí.
-   [aquí]: https://agrolocal-manuelfloresv865539.codeanyapp.com/
+Se puede ver el prototipo básico en: https://agrolocal-manuelfloresv865539.codeanyapp.com/
