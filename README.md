@@ -7,7 +7,7 @@ Es una oportunidad para pequeños y medianos productores, haciendo que resulte e
 
 Nació del arduo e intenso trabajo del hackathon "Hack For Good" de Telefónica, Sevilla. 
 
-En el que fue galardonado con el Primer Premio de y elegido como representante de Sevilla en Madrid, España.
+En el que fue galardonado con el Primer Premio y elegido como representante de Sevilla en Madrid, España.
 
 Agrolocal integrará los datos de los agricultores para prevernir el abandono de trabajo rural y multiplicarlo, mediante una sección en dónde estos podrán anunciar puestos de trabajo para el sector. Ej: Tracktorista.
 
@@ -22,4 +22,4 @@ Utilizamos la computación en nube, de Codeanywhere.
 
 Ruby como lenguaje de backend, con Framwork Ruby On Rails.
 
-JavaScript, con frameworks Jquery, Underscore y Coffe.
+JavaScript, con frameworks Jquery, Underscore y CoffeScript.
