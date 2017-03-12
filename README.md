@@ -12,6 +12,7 @@ En el que fue galardonado con el Primer Premio y elegido como representante de S
 Agrolocal integrará los datos de los agricultores para prevernir el abandono de trabajo rural y multiplicarlo, mediante una sección en dónde estos podrán anunciar puestos de trabajo para el sector. Ej: Tracktorista.
 
 Tendrá elementos de fondo social e intentará otorgar al usuario y al agricultor, una relación mucho más directa y amena. Los agricultores podrán contar su historia, costumbres y razones por la que se dedican a cultivar.
+
 ## Demo
 Se puede ver el prototipo básico en: https://agrolocal-manuelfloresv865539.codeanyapp.com/
 
