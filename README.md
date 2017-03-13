@@ -19,8 +19,8 @@ Se puede ver el prototipo básico en: https://agrolocal-manuelfloresv865539.code
 
 ## Herramientas
 
-Utilizamos la computación en nube, de Codeanywhere. 
+  - Utilizamos la computación en nube, de Codeanywhere. 
 
-Ruby como lenguaje de backend, con Framwork Ruby On Rails.
+  - Ruby como lenguaje de backend, con Framwork Ruby On Rails.
 
-JavaScript, con frameworks Jquery, Underscore y CoffeScript.
+  - JavaScript, con frameworks Jquery, Underscore y CoffeScript.
