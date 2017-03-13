@@ -1,0 +1,110 @@
+o: ActiveSupport::Cache::Entry:@valueI"�
+<div class="container" >
+<h1 class="cented">Productos</h1>
+
+  
+<table class="table table-condensed">
+  <thead>
+    <tr>
+      <th>Icon</th>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Ecological</th>
+      <th>Price</th>
+      <th>Farmer</th>
+      <th>Phone</th>
+      <th>City</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+      <tr>
+        <td><img alt="Orange" src="/png/orange.png" width="64" /></td>
+        <td>Naranjas</td>
+        <td>Naranjas navellinas</td>
+        <td>true</td>
+        <td>0.40 €</td>
+        <td>Pepe Lozano</td>
+        <td>653334542</td>
+        <td>Sevilla</td>
+        <td><a href="/products/1">Show</a></td>
+        <td><a href="/products/1/edit">Edit</a></td>
+        <td><a data-confirm="Are you sure?" data-method="delete" href="/products/1" rel="nofollow">Destroy</a></td>
+      </tr>
+      <tr>
+        <td><img alt="Tomato" src="/png/tomato.png" width="64" /></td>
+        <td>Tomates</td>
+        <td>Tomates cherry</td>
+        <td>false</td>
+        <td>0.85 €</td>
+        <td>Juan García</td>
+        <td>654223334</td>
+        <td>Utrera</td>
+        <td><a href="/products/2">Show</a></td>
+        <td><a href="/products/2/edit">Edit</a></td>
+        <td><a data-confirm="Are you sure?" data-method="delete" href="/products/2" rel="nofollow">Destroy</a></td>
+      </tr>
+      <tr>
+        <td><img alt="Potatoes 2" src="/png/potatoes-2.png" width="64" /></td>
+        <td>Patatas</td>
+        <td>Patatas rojas</td>
+        <td>true</td>
+        <td>0.45 €</td>
+        <td>Antonio Sanz</td>
+        <td>664737373</td>
+        <td>Dos Hermanas</td>
+        <td><a href="/products/3">Show</a></td>
+        <td><a href="/products/3/edit">Edit</a></td>
+        <td><a data-confirm="Are you sure?" data-method="delete" href="/products/3" rel="nofollow">Destroy</a></td>
+      </tr>
+      <tr>
+        <td><img alt="Lemon 1" src="/png/lemon-1.png" width="64" /></td>
+        <td>Limones</td>
+        <td>Limones gigantes</td>
+        <td>true</td>
+        <td>1.00 €</td>
+        <td>Sofia Gutierrez</td>
+        <td>684993382</td>
+        <td>Lebrija</td>
+        <td><a href="/products/4">Show</a></td>
+        <td><a href="/products/4/edit">Edit</a></td>
+        <td><a data-confirm="Are you sure?" data-method="delete" href="/products/4" rel="nofollow">Destroy</a></td>
+      </tr>
+      <tr>
+        <td><img alt="Pineapple" src="/png/pineapple.png" width="64" /></td>
+        <td>Piñas</td>
+        <td>Piña mediterranea</td>
+        <td>false</td>
+        <td>1.00 €</td>
+        <td>Sebastián Ruiz</td>
+        <td>623929292</td>
+        <td>Motril</td>
+        <td><a href="/products/5">Show</a></td>
+        <td><a href="/products/5/edit">Edit</a></td>
+        <td><a data-confirm="Are you sure?" data-method="delete" href="/products/5" rel="nofollow">Destroy</a></td>
+      </tr>
+      <tr>
+        <td><img alt="Raspberry" src="/png/raspberry.png" width="64" /></td>
+        <td>Frambuesas</td>
+        <td>Frambuesa sabrosa</td>
+        <td>true</td>
+        <td>1.00 €</td>
+        <td>Agustín Pacheco</td>
+        <td>666767673</td>
+        <td>Huelva</td>
+        <td><a href="/products/6">Show</a></td>
+        <td><a href="/products/6/edit">Edit</a></td>
+        <td><a data-confirm="Are you sure?" data-method="delete" href="/products/6" rel="nofollow">Destroy</a></td>
+      </tr>
+  </tbody>
+</table>
+
+  
+  <button type="button" class="btn btn-success"><a href="/products/new">New Product</a></button>
+
+<br>
+  
+</div>
+
+:ET:@created_atf1489359068.1427786:@expires_in0

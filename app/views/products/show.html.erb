@@ -1,47 +1,55 @@
 <div class="container" >
+  <p id="notice"><%= notice %></p>
+  <div style="width: 300px">
+    <div style="padding: 15px;">
+      <%= image_tag(@product.icon.path, width: "128", :class => "center-block") %>
+    </div>
+    <div>
+      <h3 class="bg-success text-center" style="padding: 10px; margin-top: 0px"><%= @product.name %></h3>      
+    </div>
+    <div>
+      
 
-<p id="notice"><%= notice %></p>
+    <button class="btn btn-default center-block btn-block" style="margin-bottom: 10px" role="button" data-toggle="collapse" href="#collapseCaracteristicas" aria-expanded="false" aria-controls="collapseCaracteristicas">
+     Ver características <span class="caret"></span> 
+    </button>
+    <div class="nocollapse" id="collapseCaracteristicas">
+      <div style="padding: 0px 10px">
+          <p>
+            <strong>Descripci&oacute;n:</strong>
+              <%= @product.description %>
+          </p>
+          <p>
+            <strong>Procedencia:</strong>
+            <%= @product.city %>
+          </p>   
+          <p>
+            <strong>Ecológico:</strong>
+            <%= @product.ecological ? "Sí" : "No" %>
+          </p>
 
-<p>
-  <%= image_tag(@product.icon.path, width: "128") %>
-</p>
+          <p>
+            <strong>Agricultor:</strong>
+            <%= @product.farmer %>
+          </p>
+          <p>
+            <strong>Tel&eacute;fono:</strong>
+            <%= @product.phone %>
+          </p>
+       </div>
+    </div> 
+    </div>
+    <div>
+      <h3 class="bg-success text-center" style="padding: 10px; margin-top: 0px"><%= number_to_currency(@product.price, unit: "€", format: "%n %u") %></h3>      
+    </div>
+    <div class="center-block">
+        <div>
+           <%= button_to 'Añadir al carrito', edit_product_path(@product), :class => "btn btn-default btn-block center-block", method: :get %> 
+        </div>
+        <div style="margin-top: 5px;">
+         <%= button_to 'Contactar', products_path, :class => "btn btn-default btn-block center-block", method: :get %>          
+        </div>
 
-<p>
-  <strong>Name:</strong>
-  <%= @product.name %>
-</p>
-
-<p>
-  <strong>Description:</strong>
-  <%= @product.description %>
-</p>
-
-
-<p>
-  <strong>Ecological:</strong>
-  <%= @product.ecological %>
-</p>
-
-<p>
-  <strong>Price:</strong>
-  <%= number_to_currency(@product.price, unit: "€", format: "%n %u") %>
-</p>
-
-<p>
-  <strong>Farmer:</strong>
-  <%= @product.farmer %>
-</p>
-
-<p>
-  <strong>Phone:</strong>
-  <%= @product.phone %>
-</p>
-
-<p>
-  <strong>City:</strong>
-  <%= @product.city %>
-</p>
-
-<%= link_to 'Edit', edit_product_path(@product) %> |
-<%= link_to 'Back', products_path %>
+      </div> 
+  </div>
 </div>

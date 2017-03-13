@@ -20,8 +20,34 @@ html {
 /*buscaador*/
 .buscador{
 	    background-color: #499e40;
+	margin: 0;
+    padding: 2px;
+}
+.img-center{
+	margin:auto;
 }
 
+.margenes{
+	    margin: 20px 0px !important;
+}
+.margenes-top{
+	margin-top: 50px;	
+}
+
+#buscador-mapa {
+	margin-right: -5px !important;
+}
+navbar-form {
+	margin-right: -6px !important;
+}
+
+
+@media (max-width:500px){
+	
+#map{
+	height:300px !important;
+}
+}
 
 
 
@@ -127,6 +153,12 @@ section.features .device-container {
 .intro-message > h3 {
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
 }
+
+
+.azul{
+	
+}
+
 
 @media(max-width:767px) {
     .intro-message {
@@ -357,6 +389,10 @@ dropdown.dropdown-lg .dropdown-menu {
 .header-text h3 span {
 	background-color: rgba(87, 241, 108, 0.46);
 	padding: 15px;
+}
+
+.header-text .azul span{
+	background-color: rgba(72, 137, 192, 0.5);
 }
 
 

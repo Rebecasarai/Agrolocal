@@ -1,5 +1,5 @@
 <div class="container" >
-<h1>Resultados de Busqueda</h1>
+<h1>Resultados de Busqueda <%= "para «#{@q}»" unless @q.nil? %></h1>
 
 <%= render 'grid' %>
 </div>

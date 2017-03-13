@@ -1,0 +1,28 @@
+o: ActiveSupport::Cache::Entry:@valueI"Ü<div class="container" id="iconoslist">
+  <h1 class="cented">Listing icons</h1>
+<table class="table table-condensed">
+  <thead>
+    <tr>
+      <th>PNG</th>
+      <th>Name</th>
+      <th>Path</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+  </tbody>
+</table>
+
+<br>
+  
+
+  <button type="button" class="btn btn-success"><a href="/icons/new">New Icon</a></button>
+
+<div>
+  
+</div>
+
+<code>License: Icons made by madebyoliver from www.flaticon.com </code>  
+</div>
+:ET:@created_atf1489360949.943196:@expires_in0
