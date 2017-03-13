@@ -23,4 +23,7 @@ Se puede ver el prototipo básico en: https://agrolocal-manuelfloresv865539.code
 
   - Ruby como lenguaje de backend, con Framwork Ruby On Rails.
 
-  - JavaScript, con frameworks Jquery, Underscore y CoffeScript.
+  - JavaScript, con frameworks Jquery y Underscore.
+  
+  - CoffeScript.
+
