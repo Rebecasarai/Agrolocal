@@ -17,7 +17,7 @@ Tendrá elementos de fondo social e intentará otorgar al usuario y al agriculto
 Se puede ver el prototipo básico en: https://agrolocal-manuelfloresv865539.codeanyapp.com/
 
 
-## Herramientas
+## Herramientas Tecnológicas 
 
   - Utilizamos la computación en nube, de Codeanywhere. 
 
