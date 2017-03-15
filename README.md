@@ -5,7 +5,7 @@
 Agrolocal es una plataforma que permite empoderar a los agricultores y consumir productos locales de forma directa. Empoderando así a los agricultores y a los consumidores, evitando intermediarios. 
 Es una oportunidad para pequeños y medianos productores, haciendo que resulte en producto de precio más justo.
 
-Nació del arduo e intenso trabajo de la 5ta edición del hackathon **["Hack For Good"](https://hackforgood.net/) de Telefónica**, [sede Sevilla.](https://hackforgood.net/sevilla/)
+Nació del arduo e intenso trabajo de la 5ta edición del hackathon **["Hack For Good"](https://hackforgood.net/) de Telefónica**, [sede Sevilla.](http://institucional.us.es/catedratel/?p=3027)
 
 En el que fue galardonado con el **Primer Premio** y **elegido como representante de Sevilla en Madrid, España.**
 
