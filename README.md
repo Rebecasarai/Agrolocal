@@ -7,8 +7,7 @@ Es una oportunidad para pequeños y medianos productores, haciendo que resulte e
 
 Nació del arduo e intenso trabajo de la 5ta edición del hackathon **["Hack For Good"](https://hackforgood.net/) de Telefónica**, [sede Sevilla.](http://institucional.us.es/catedratel/?p=3027)
 
-En el que fue galardonado con el **[Primer Premio](https://www.informatica.us.es/index.php/noticias/43-anuncios/1880-premios-hackforgood-sevilla-2017)** y **elegido como representante de Sevilla en Madrid, España.**
-
+En el que fue galardonado con el **[Primer Premio](https://www.informatica.us.es/index.php/noticias/43-anuncios/1880-premios-hackforgood-sevilla-2017)**.
 Agrolocal integrará los datos de los agricultores para prevernir el abandono de trabajo rural y multiplicarlo, mediante una sección en dónde estos podrán anunciar puestos de trabajo para el sector. Ej: Traktorista.
 
 Tendrá elementos de fondo social e intentará otorgar al usuario y al agricultor, una relación mucho más directa y amena. Los agricultores podrán contar su historia, costumbres y razones por la que se dedican a cultivar.
